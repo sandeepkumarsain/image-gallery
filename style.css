@@ -12,6 +12,7 @@
     flex-wrap: wrap;
     margin-left: 4%;
     margin-right: auto;
+    /* box-sizing: border-box; */
 }
 .image
 {
